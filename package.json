@@ -1,0 +1,22 @@
+{
+  "name": "solitaire-multiplayer",
+  "version": "1.0.0",
+  "description": "Multiplayer solitaire game with chat included.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhengLinLei/Solitaire-Multiplayer.git"
+  },
+  "keywords": [
+    "solitaire"
+  ],
+  "author": "ZhengLinLei",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ZhengLinLei/Solitaire-Multiplayer/issues"
+  },
+  "homepage": "https://github.com/ZhengLinLei/Solitaire-Multiplayer#readme"
+}
