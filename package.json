@@ -4,17 +4,14 @@
   "description": "Multiplayer solitaire game with chat included.",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js",
-    "start-n": "npx nodemon ./index.js"
+    "test": "test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZhengLinLei/Solitaire-Multiplayer.git"
   },
   "keywords": [
-    "solitaire",
-    "game",
-    "server"
+    "solitaire"
   ],
   "author": "ZhengLinLei",
   "license": "Apache-2.0",
@@ -27,11 +24,5 @@
   "bugs": {
     "url": "https://github.com/ZhengLinLei/Solitaire-Multiplayer/issues"
   },
-  "homepage": "https://github.com/ZhengLinLei/Solitaire-Multiplayer#readme",
-  "dependencies": {
-    "express": "^4.18.2"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.20"
-  }
+  "homepage": "https://github.com/ZhengLinLei/Solitaire-Multiplayer#readme"
 }
